@@ -1,55 +1,35 @@
 # 👋 Olá, eu sou o Adriel Rodrigues Louzano
 
- Estudante de Sistemas de Informação  
- Desenvolvedor Full Stack  
- Foco em desenvolvimento web moderno e aplicações escaláveis  
----
+🎓 Estudante de Sistemas de Informação  
+💻 Desenvolvedor Full Stack  
 
-##  Tech Stack
+Sou desenvolvedor Full Stack com experiência na construção de sistemas completos utilizando **Next.js, React e Node.js**, aplicando arquitetura REST, autenticação com JWT e integração com bancos relacionais.
 
-###  Front-end
+Tenho vivência acadêmica e prática no desenvolvimento de aplicações com separação clara entre front-end e back-end, controle de acesso, persistência com ORM e boas práticas de versionamento com Git.
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-</p>
+Busco oportunidade como **Desenvolvedor Full Stack Júnior**, onde possa contribuir tecnicamente e evoluir em ambientes que valorizem qualidade de código, organização e crescimento contínuo.
 
 ---
 
-###  Back-end
+## 🛠️ Skills
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img height="70em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg">
+<img height="70em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
+<img height="70em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
+<img height="70em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
+<img height="70em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
+<img height="70em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Figma.svg">
 
-</p>
+<img height="70em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
+<img height="70em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NestJS.svg">
 
----
+<img height="70em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg">
+<img height="70em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
+<img height="70em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PrismaORM.svg">
 
-###  Banco de Dados & ORM
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-
-</p>
-
----
-
-###  Ferramentas & Versionamento
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img height="70em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
 
 </p>
 
@@ -57,22 +37,28 @@
 
 ##  Formação Acadêmica
 
-🎓 Bacharelado em Sistemas de Informação  
-  Ênfase em:
-- Desenvolvimento Web
-- Arquitetura de Software
-- Banco de Dados
-- APIs REST
-- Segurança da Informação
+Bacharelado em Sistemas de Informação  
+
+Durante a graduação desenvolvi projetos voltados para:
+
+- Desenvolvimento Web Full Stack  
+- Arquitetura de Software  
+- Modelagem e Administração de Banco de Dados  
+- Construção de APIs REST  
+- Segurança e autenticação com JWT  
 
 ---
 
 ##  Objetivo
 
-Busco oportunidades para atuar como **Desenvolvedor Full Stack Júnior**, contribuindo com soluções modernas, escaláveis e seguras, enquanto continuo evoluindo tecnicamente e profissionalmente.
+Busco oportunidade como **Desenvolvedor Full Stack Júnior**, onde eu possa contribuir com soluções modernas e continuar evoluindo tecnicamente em ambientes desafiadores.
 
 ---
 
- Conecte-se comigo:
-- LinkedIn: https://www.linkedin.com/in/adriellouzano/
-- Email: adriellouzano@gmail.com
+##  Contato
+
+ LinkedIn:  
+https://www.linkedin.com/in/adriellouzano/
+
+ Email:  
+adriellouzano@gmail.com
