@@ -61,5 +61,9 @@ Durante a graduação desenvolvi projetos voltados para:
 
 Busco oportunidade como **Desenvolvedor Full Stack Júnior**, onde eu possa contribuir com soluções modernas e continuar evoluindo tecnicamente em ambientes desafiadores.
 
+##  Contato
+
+LinkedIn:  
+https://www.linkedin.com/in/adriellouzano/
 
 
