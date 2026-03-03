@@ -11,11 +11,9 @@ Busco oportunidade como **Desenvolvedor Full Stack Júnior**, onde possa contrib
 
 ---
 
-## 🛠️ Skills
+## Skills
 
----
-
-###  Front-end
+##  Front-end
 
 <p align="center">
 <img height="65em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NextJS.svg">
@@ -25,9 +23,7 @@ Busco oportunidade como **Desenvolvedor Full Stack Júnior**, onde possa contrib
 <img height="65em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
 </p>
 
----
-
-###  Back-end
+##  Back-end
 
 <p align="center">
 <img height="65em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/NodeJS.svg">
@@ -36,9 +32,7 @@ Busco oportunidade como **Desenvolvedor Full Stack Júnior**, onde possa contrib
 <img height="65em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/MySQL.svg">
 </p>
 
----
-
-###  DevOps & Tools
+##  DevOps & Tools
 
 <p align="center">
 <img height="65em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/GIT.svg">
